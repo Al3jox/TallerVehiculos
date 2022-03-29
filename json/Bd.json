@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "title":"Estribos",
+        "description":"Útiles ya que ayudan al fácil acceso al interior del vehículo, para cada tipo de camioneta..",
+        "img":"img/estribos.jpg ",
+        "precio":"200.000"
+    },
+    
+    {
+        "id":2,
+        "title":"Parrillas de techo",
+        "description":"Para darle uso al espacio exterior y estilo al vehículo.",
+        "img":"img/Parrilla-techo.jpg",
+         "precio":"350.000"
+    },
+    
+    {
+        "id":3,
+        "title":"Portabicicletas",
+        "description":"Dispositivo que va conectado a la parte trasera ,y permite llevar varias bicicletas al viajar.",
+        "img":"img/porta2 (1).jpg", 
+        "precio":"500.000"
+    },
+    
+    {
+        "id":4,
+        "title":"Bómper trasero",
+        "description":" Ideales para camionetas para minería o tipo original",
+        "img":"img/bomper-trasero.jpg",
+         "precio":"400.000"
+    },
+    
+    {
+        "id":5,
+        "title":"Sensor de reversa",
+        "description":"Ofrecen asistencia al conductor del vehículo a la hora de paquear.",
+        "img":"img/camara.jpg",
+         "precio":"600.000"
+    },
+    
+    {
+        "id":6,
+        "title":"Cubierta Plegable",
+        "description":"Suministra protección para el platón de su camioneta",
+        "img":"img/cubierta (1).jpg",
+         "precio":"400.000"
+    },
+    
+    {
+        "id":7,
+        "title":"Portaequipaje",
+        "description":"Proporcionan espacio de transporte, ubicado en la parte superior del vehículo.",
+        "img":"img/portaequipaje.jpg",
+         "precio":"500.000"
+    },
+    
+    {
+        "id":8,
+        "title":"Exploradoras",
+        "description":"De gran importancia durante la noche pues ayudan a iluminar de forma adecuada y evitan accidentes,",
+        "img":"img/exploradoras.jpg",
+         "precio":"400.000"
+    },
+    
+    {
+        "id":9,
+        "title":"Snorkel",
+        "description":"El snorkel o toma de aire elevada nos garantiza que el motor aspire aire en cualquier situación.",
+        "img":"img/snorkel.jpg",
+         "precio":"200.000"
+    }
+    
+    ]
