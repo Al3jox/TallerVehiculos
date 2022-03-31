@@ -1,5 +1,6 @@
 let btnServicios = document.querySelector(".btn-servicios");
 let FecCalendario = document.querySelector(".color-num");
+
 let datosFormulario = document.getElementById("enviarDatos");
 let btnCompras = document.getElementById("comprar1");
 
@@ -13,10 +14,36 @@ btnCompras.addEventListener("click",ventanaProximo);
 function ventanaProximo(){
     Swal.fire(
         'Proximamente podras gestionar tus productos y servicios',
-        'Ok',
+        'Vuelve pronto',
         'info'
       )
 }
+
+/*
+function ventanaProximo(e){
+    if(e.target.classList.contains('btn-servicios')){
+      Swal.fire(
+        'Proximamente podras gestionar tus productos y servicios',
+        'Vuelve pronto',
+        'info'
+      )
+    }
+    if (e.target.classList.contains('color-num')) {
+      Swal.fire(
+        'Proximamente podras gestionar tus productos y servicios',
+        'Vuelve pronto',
+        'info'
+      )
+  }
+  if (e.target.classList.contains('color-num')) {
+      Swal.fire(
+        'Proximamente podras gestionar tus productos y servicios',
+        'Vuelve pronto',
+        'info'
+      )
+  }
+}
+*/
 
 function enviarinfo(){
     Swal.fire({
